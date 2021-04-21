@@ -9,3 +9,5 @@ for i in str(factorial_sum):
 
 print(vysledek)
 print(factorial_sum)
+
+
