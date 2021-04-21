@@ -1,12 +1,11 @@
 #Find the sum of the digits in the number 100!
+import math
 
-a=100
-suma=1
+factorial_sum = math.factorial(100) #sum of factorial 100
 vysledek=0
-while a > 1:
-    suma*=a
-    a+=-1
-for i in str(suma):
-    vysledek+=int(i)
+
+for i in str(factorial_sum):
+    vysledek+=int(i)#sum of digits
+
 print(vysledek)
-print(suma)
+print(factorial_sum)
