@@ -10,6 +10,6 @@ Time spent on problem is less than 60 minutes.
 Intermediate problems = [12,]
 
 Time spent on problem is over 60 minutes.
-Hard problems = [11,]
+Hard problems = [11,28]
 
 
