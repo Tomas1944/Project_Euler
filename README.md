@@ -5,7 +5,7 @@ Problems are of varying difficulty, but each is solvable in less than a minute o
 
 Time spent on problem is less than 20 minutes.
 
-Easy problems = [1,2,3,4,5,6,7,8,9,10,13,14,16,20,25,48]
+Easy problems = [1,2,3,4,5,6,7,8,9,10,13,14,16,20,25,30,48]
 
 Time spent on problem is less than 60 minutes.
 
