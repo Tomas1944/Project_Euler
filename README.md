@@ -3,16 +3,8 @@ The project attracts adults and students interested in mathematics and computer 
 It includes over 700 problems, with a new one added once every one or two weeks. This repository shows my solutions of some of them.
 Problems are of varying difficulty, but each is solvable in less than a minute of CPU time using an efficient algorithm on a modestly powered computer.
 
-Time spent on problem is less than 20 minutes.
-
-Easy problems = [1,2,3,4,5,6,7,8,9,10,13,14,16,20,25,30,34,35,36,40,48]
-
-Time spent on problem is less than 60 minutes.
-
-Intermediate problems = [12,]
-
-Time spent on problem is over 60 minutes.
-
-Hard problems = [11,28]
+Easy problems (Time spent on problem is less than 20 minutes.)= [1,2,3,4,5,6,7,8,9,10,13,14,16,20,25,30,34,35,36,40,48]
+Intermediate problems (Time spent on problem is less than 60 minutes.) = [12,]
+Hard problems(Time spent on problem is over 60 minutes.) = [11,28]
 
 
